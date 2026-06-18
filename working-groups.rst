@@ -12,7 +12,13 @@ transparent mechanism for managing discrete projects or activities (whether
 technical, infrastructural, or otherwise) undertaken by the Community. As such,
 it ensures that each working group is clearly chartered, time-bound, and
 actively led, thereby addressing organizational gaps that often leave new and
-existing volunteers uncertain about who to talk to or how to contribute.
+existing volunteers uncertain about who to talk to or how to contribute. It
+further empowers each working group to operate autonomously within the scope of
+its charter; approval of a charter is the Community's grant of authority for the
+group to make decisions and undertake activities without an RFC for each one. A
+working group remains accountable to the Community and cannot bypass the RFC
+process for language or policy changes, but within the bounds of its charter it
+has the final say.
 
 Terms
 =====
@@ -95,6 +101,10 @@ process. Other sections of the working group charter MAY be amended from
 time-to-time by members of the working group through consensus with other
 members of the working group.
 
+Upon acceptance, the charter MUST be amended to include a link to the working
+group's VCS repository and mailing list, if applicable (see PHP Project
+Resources).
+
 Responsibilities
 ================
 
@@ -112,8 +122,29 @@ Working group operations, including but not limited to meetings, discussions,
 decisions, and work activity, SHOULD be open and transparent. Exceptions include
 situations in which privacy or sensitive information must be protected.
 
+PHP Project Resources
+=====================
+
+The PHP Project SHALL provide a public VCS repository to the working group for
+operational documentation. This repository will include the working group's
+policies, meeting minutes, current participants/members roster, decision
+records, draft RFCs, and any other documentation related to the operation of the
+working group.
+
+The working group may request additional VCS repositories as needed to support
+its activities.
+
+If necessary for the working group's communication plan, the working group may
+request a PHP Project mailing list. Mailing lists SHOULD be public and open for
+working group non-members to participate.
+
 Working Group Policies
 ======================
+
+A working group's charter SHOULD NOT enumerate its policies. Instead, the
+working group is free to define and set its own policies through consensus of
+its members. Working group policies MUST be documented in the working group's
+public documentation VCS repository.
 
 Through the PHP RFC process, the Community may set policies or procedures which
 apply to working groups. These policies or procedures MAY apply to individual

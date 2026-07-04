@@ -105,6 +105,18 @@ Upon acceptance, the charter MUST be amended to include a link to the working
 group's VCS repository and mailing list, if applicable (see PHP Project
 Resources).
 
+Grant of Authority
+==================
+
+Within the scope of its charter and in compliance with its own policies and the
+broader policies of the PHP Project, the Community grants each working group the
+authority to operate and make decisions on its own without requiring the RFC
+process.
+
+This authority does not extend to language or broader PHP Project policy
+changes. These types of changes continue to require an RFC, even if the working
+group is responsible for proposing or implementing the changes.
+
 Responsibilities
 ================
 

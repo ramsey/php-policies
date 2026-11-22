@@ -135,7 +135,7 @@ excluding the member in question.
 The Working Group MAY remove or replace the Chair at any time by 2/3 majority
 vote, excluding the sitting chair.
 
-The Community MAY introduce an RFC at any time to "recall" a member from the
+The Community MAY introduce an RFC at any time to recall a member from the
 Working Group. A member recalled from a Working Group by RFC is ineligible to
 rejoin the same or a substantially similar Working Group for a period of two (2)
 years.
